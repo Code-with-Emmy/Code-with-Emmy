@@ -6,23 +6,15 @@
 Hi, I'm Emmanuel Osuagwu 👋
 
 Full-stack and backend engineer building software people can rely on
-
 I design and build production web and mobile applications for startups, businesses, and growing teams. My work spans product development, backend architecture, APIs, payments, real-time systems, and cloud deployment.
-
 I’m currently building DineDirects — an operating system for modern restaurants, with POS tools, QR ordering, kiosk ordering, analytics, reports, promotions, and restaurant management features.
 
 What I do
-
 Build full-stack products from idea to production
-
 Design REST APIs and backend systems with Python/Django, FastAPI, Node.js, and TypeScript
-
 Create responsive web applications with React and Next.js
-
 Build mobile applications with React Native and Expo
-
 Integrate payments, authentication, notifications, storage, and third-party services
-
 Work with real-time features using WebSockets and event-driven patterns
 
 Deploy and maintain applications with PostgreSQL, Redis, Docker, AWS, Render, Vercel, and Nginx
@@ -30,21 +22,17 @@ Deploy and maintain applications with PostgreSQL, Redis, Docker, AWS, Render, Ve
 Featured work
 
 DineDirects
-
 Restaurant operations software designed to help restaurants manage ordering, menus, staff, tables, analytics, promotions, and customer experiences from one place.
 
 Focus: Python, Django, React, TypeScript, PostgreSQL, Supabase, WebSockets, REST APIs, and cloud deployment.
 
 CodeWithEmmy
-
 My personal portfolio and technical brand, showcasing selected products, experiments, and client work.
 
 RentiumSMS
-
 An SMS and communication platform built to support businesses with messaging and customer communication workflows.
 
 iWebbTech
-
 A business website project focused on presenting services clearly and providing a professional digital presence.
 
 Tech stack
