@@ -3,42 +3,85 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_codewithemmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://ng.linkedin.com/in/emmanuel-osuagwu-33327b363) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codewithemmy_) 
 ## About Me
+Hi, I'm Emmanuel Osuagwu 👋
 
-I’m a full-stack developer who enjoys turning ideas into real products that people can actually use.
+Full-stack and backend engineer building software people can rely on
 
-I specialize in building modern web and mobile applications, from creating smooth user experiences on the frontend to developing secure, scalable systems on the backend. I focus on writing clean code, solving real problems, and building products that deliver value to both users and businesses.
+I design and build production web and mobile applications for startups, businesses, and growing teams. My work spans product development, backend architecture, APIs, payments, real-time systems, and cloud deployment.
 
-Over the years, I’ve worked on different types of platforms, including fintech solutions, SaaS products, marketplaces, and applications that require reliability, performance, and scalability.
+I’m currently building DineDirects — an operating system for modern restaurants, with POS tools, QR ordering, kiosk ordering, analytics, reports, promotions, and restaurant management features.
 
-## What I Work With
+What I do
 
-* Full-stack development using React, Node.js, and MongoDB
-* Mobile application development with React Native
-* SaaS, fintech, and marketplace platforms
-* API development and integrations
-* Authentication, payments, and backend architecture
+Build full-stack products from idea to production
 
-## Things I’ve Built
+Design REST APIs and backend systems with Python/Django, FastAPI, Node.js, and TypeScript
 
-* Fintech applications with payment systems and financial features
-* Marketplace platforms with user and admin dashboards
-* Mobile apps with real-time functionality
-* Scalable APIs and backend systems designed for growth
+Create responsive web applications with React and Next.js
 
-## Currently Improving
+Build mobile applications with React Native and Expo
 
-* Advanced system design and scalable architecture
-* Cloud infrastructure and DevOps practices
-* Building reliable production-ready applications
+Integrate payments, authentication, notifications, storage, and third-party services
 
-## Open To
+Work with real-time features using WebSockets and event-driven patterns
 
-* Collaborating on impactful projects
-* Freelance and contract opportunities
-* Working with startups and founders to bring ideas to life
+Deploy and maintain applications with PostgreSQL, Redis, Docker, AWS, Render, Vercel, and Nginx
 
-I’m passionate about using technology to solve problems, continuously improving my skills, and building software that is not only functional but creates real impact.
+Featured work
 
+DineDirects
+
+Restaurant operations software designed to help restaurants manage ordering, menus, staff, tables, analytics, promotions, and customer experiences from one place.
+
+Focus: Python, Django, React, TypeScript, PostgreSQL, Supabase, WebSockets, REST APIs, and cloud deployment.
+
+CodeWithEmmy
+
+My personal portfolio and technical brand, showcasing selected products, experiments, and client work.
+
+RentiumSMS
+
+An SMS and communication platform built to support businesses with messaging and customer communication workflows.
+
+iWebbTech
+
+A business website project focused on presenting services clearly and providing a professional digital presence.
+
+Tech stack
+
+Languages: Python, TypeScript, JavaScript, SQL
+
+Frontend: React, Next.js, React Native, Expo, Tailwind CSS, Vite
+
+Backend: Django, Django REST Framework, FastAPI, Node.js, Express, REST APIs, WebSockets
+
+Data and infrastructure: PostgreSQL, MongoDB, Prisma, Redis, Supabase, Docker, AWS, Render, Vercel, Nginx
+
+Integrations: Paystack, Flutterwave, Stripe, Twilio, Cloudinary, Microsoft Graph, Azure Blob Storage
+
+What I’m interested in
+
+Backend and full-stack engineering roles
+
+SaaS, fintech, restaurant technology, and developer tools
+
+Reliable APIs and distributed systems
+
+Product engineering with strong user and business impact
+
+Collaborating with founders and teams building useful products
+
+Connect with me
+
+Portfolio: codewithemmy.com
+
+LinkedIn: Emmanuel Osuagwu
+
+Instagram: @_codewithemmy
+
+TikTok: @codewithemmy_
+
+I enjoy turning complex ideas into practical software and continuously improving the systems behind the products people use every day.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
