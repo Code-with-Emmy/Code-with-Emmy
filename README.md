@@ -50,23 +50,15 @@ A business website project focused on presenting services clearly and providing 
 Tech stack
 
 Languages: Python, TypeScript, JavaScript, SQL
-
 Frontend: React, Next.js, React Native, Expo, Tailwind CSS, Vite
-
 Backend: Django, Django REST Framework, FastAPI, Node.js, Express, REST APIs, WebSockets
-
 Data and infrastructure: PostgreSQL, MongoDB, Prisma, Redis, Supabase, Docker, AWS, Render, Vercel, Nginx
-
 Integrations: Paystack, Flutterwave, Stripe, Twilio, Cloudinary, Microsoft Graph, Azure Blob Storage
 
 What I’m interested in
-
 Backend and full-stack engineering roles
-
 SaaS, fintech, restaurant technology, and developer tools
-
 Reliable APIs and distributed systems
-
 Product engineering with strong user and business impact
 
 Collaborating with founders and teams building useful products
@@ -74,11 +66,8 @@ Collaborating with founders and teams building useful products
 Connect with me
 
 Portfolio: codewithemmy.com
-
 LinkedIn: Emmanuel Osuagwu
-
 Instagram: @_codewithemmy
-
 TikTok: @codewithemmy_
 
 I enjoy turning complex ideas into practical software and continuously improving the systems behind the products people use every day.
